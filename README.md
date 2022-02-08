@@ -14,6 +14,6 @@ LeetCode 官方推出的经典面试题目清单 —— 「初级算法 - 帮助
 记住：刻意练习并不意味着寻找答案并记住它，这种练习方法不是长久之计。 在没有参考答案情况下，越能自主解决问题，才越能提高自身能力。
 
 作者：力扣 (LeetCode)
-链接：https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/x6w3ds/
+
 来源：力扣（LeetCode）
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
