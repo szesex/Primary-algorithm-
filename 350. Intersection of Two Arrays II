@@ -1,0 +1,7 @@
+class Solution:
+    def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        nums1 = sorted(nums1)
+        res = [nums1.pop(nums1.index(i))
+        for i in nums2
+        if i in nums1]
+        return res
